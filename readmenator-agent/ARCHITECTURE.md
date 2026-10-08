@@ -6,4 +6,5 @@
 
 ## External Imports
 
-- `main.cpp` -> HarmonicsKnob.h
+- `HarmonicsPluginEditor.cpp` -> `HarmonicsPluginEditor.h`
+- `main.cpp` -> `HarmonicsKnob.h`

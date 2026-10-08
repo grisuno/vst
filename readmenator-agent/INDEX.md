@@ -1,6 +1,6 @@
 # Index
 
-| File | Purpose | Subsystem | Symbols | Used by |
-|------|---------|-----------|---------|---------|
-| `HarmonicsPluginEditor.cpp` | HarmonicsPluginEditor.cpp | root | 3 | 0 |
-| `main.cpp` | - | root | 2 | 0 |
+| File | Purpose | Subsystem | Symbols |
+|------|---------|-----------|---------|
+| `HarmonicsPluginEditor.cpp` | HarmonicsPluginEditor.cpp | root | 3 |
+| `main.cpp` | - | root | 2 |

@@ -1,11 +1,21 @@
 # API
 
 ## HarmonicsPluginEditor.cpp
-- `HarmonicsPluginEditor` (function) `HarmonicsPluginEditor.cpp:4` `HarmonicsPluginEditor::HarmonicsPluginEditor(HarmonicsPluginProcessor& p)
+
+### HarmonicsPluginEditor (function) `HarmonicsPluginEditor::HarmonicsPluginEditor(HarmonicsPluginProcessor& p)
     : AudioProcessorEdi...`
-- `paint` (function) `HarmonicsPluginEditor.cpp:19` `void HarmonicsPluginEditor::paint(Graphics& g)`
-- `resized` (function) `HarmonicsPluginEditor.cpp:24` `void HarmonicsPluginEditor::resized()`
+- Defined: `HarmonicsPluginEditor.cpp:4`
+
+### paint (function) `void HarmonicsPluginEditor::paint(Graphics& g)`
+- Defined: `HarmonicsPluginEditor.cpp:19`
+
+### resized (function) `void HarmonicsPluginEditor::resized()`
+- Defined: `HarmonicsPluginEditor.cpp:24`
 
 ## main.cpp
-- `HarmonicsKnob` (function) `main.cpp:3` `HarmonicsKnob::HarmonicsKnob()`
-- `paint` (function) `main.cpp:15` `void HarmonicsKnob::paint(Graphics& g)`
+
+### HarmonicsKnob (function) `HarmonicsKnob::HarmonicsKnob()`
+- Defined: `main.cpp:3`
+
+### paint (function) `void HarmonicsKnob::paint(Graphics& g)`
+- Defined: `main.cpp:15`

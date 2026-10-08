@@ -1,8 +1,8 @@
 # Subsystem: root
 
 ## HarmonicsPluginEditor.cpp
-- Doc: HarmonicsPluginEditor.cpp
 - Layer: infrastructure
+- Doc: HarmonicsPluginEditor.cpp
 - Language: cpp
 - Symbols:
   - `HarmonicsPluginEditor` (function, line 4) `HarmonicsPluginEditor::HarmonicsPluginEditor(HarmonicsPluginProcessor& p)
