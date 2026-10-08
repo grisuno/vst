@@ -1,0 +1,37 @@
+{
+  "concepts": [
+    {
+      "name": "cpp",
+      "files": [
+        "HarmonicsPluginEditor.cpp",
+        "main.cpp"
+      ],
+      "mentions": 5,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "harmonics",
+      "files": [
+        "HarmonicsPluginEditor.cpp",
+        "main.cpp"
+      ],
+      "mentions": 5,
+      "confidence": "EXTRACTED"
+    },
+    {
+      "name": "paint",
+      "files": [
+        "HarmonicsPluginEditor.cpp",
+        "main.cpp"
+      ],
+      "mentions": 2,
+      "confidence": "EXTRACTED"
+    }
+  ],
+  "relations": [],
+  "dialectic": [
+    "Thesis: `cpp` centralizes 2 files; Antithesis: `harmonics` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?",
+    "Thesis: `cpp` centralizes 2 files; Antithesis: `paint` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?",
+    "Thesis: `harmonics` centralizes 2 files; Antithesis: `paint` pulls 2 files with 2 shared (Jaccard 1.00); Synthesis: should they merge, split by layer, or keep `bridges` explicit?"
+  ]
+}
